@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="footer-copyright">
-                        <p><span>© 2023</span><a href="#">Nguyen Van Thanh</a>
+                        <p><span>© 2023</span><a href="#">Dao Gia Khanh</a>
                         </p>
                     </div>
                 </div>

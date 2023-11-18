@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
         $this->call([ProductSeeder::class, CategoriesSeeder::class, brandsSeeder::class, bannerSeeder::class]);
         // \App\Models\User::factory(10)->create();
         $admin = [
-           'name' => 'Nguyen Van Thanh',
+           'name' => 'Dao Gia Khanh',
             'email' => 'admin@gmail.com',
             'password' => Hash::make('123456'),
             'role' => 'Admin'

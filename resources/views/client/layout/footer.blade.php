@@ -89,7 +89,7 @@
             <div class="row align-items-center">
                 <div class="col-12 text-center">
                     <div class="copyright-content">
-                        <p class="mb-0">© 2023 <strong>Destry </strong> Made width <i class="fa fa-heart text-danger"></i> by <a href="https://www.facebook.com/thanhnv203">Nguyen Van Thanh</a></p>
+                        <p class="mb-0">© 2023 <strong>Destry </strong> Made width <i class="fa fa-heart text-danger"></i> by Đào Gia Khánh</p>
                     </div>
                 </div>
             </div>

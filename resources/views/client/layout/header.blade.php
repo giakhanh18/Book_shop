@@ -119,10 +119,10 @@
                                 <li class="has-children">
                                     <a href="{{route('page_404')}}"><span>Pages</span></a>
                                 </li>
-                                <li class="has-children">
+                                {{-- <li class="has-children">
                                     <a href="{{route('blog_page')}}"><span>Blog</span></a>
 
-                                </li>
+                                </li> --}}
                                 <li><a href="{{route('contact_page')}}"> <span>Contact</span></a></li>
                             </ul>
                         </div>

@@ -14,7 +14,7 @@ class PromotionsController extends Controller
     public function list(){
 //        for ($i = 0; $i < 10; $i++){
 //            $data = new promotion;
-//            $data->name = 'Nguyen Van Thanh';
+//            $data->name = 'Dao Gia Khanh';
 //            $data->code = '1234';
 //            $data->price = 100000;
 //            $data->save();
